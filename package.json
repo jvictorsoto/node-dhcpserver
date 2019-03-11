@@ -1,0 +1,22 @@
+{
+  "name": "dhcpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui bdd --reporter spec --colors ./test/**/*.test.js --recursive"
+  },
+  "author": "J. Victor Soto",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "pcap2": "git+https://github.com/jvictorsoto/node-pcap.git#65c79e10110f5c2fc0ba79e5bb36cb6054ee1d10"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "mocha": "^6.0.1"
+  }
+}
