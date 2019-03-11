@@ -1,4 +1,4 @@
-const DHCPServer = require('./index');
+const DHCPServer = require('../index');
 
 const myDHCPServer = new DHCPServer({
   interface: 'eth0',
