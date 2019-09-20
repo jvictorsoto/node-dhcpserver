@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^4.1.1",
-    "pcap2": "git+https://github.com/jvictorsoto/node-pcap.git#4ac1d8aed8bbc58144fac6b82ff022d8f2637b1a"
+    "pcap2": "git+https://github.com/jvictorsoto/node-pcap.git#d1ccbf66de5c8f06284a687ef7e7c7dbafd74831"
   },
   "devDependencies": {
     "chai": "^4.2.0",
