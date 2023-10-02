@@ -9,7 +9,7 @@
   "author": "J. Victor Soto",
   "license": "MIT",
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "pcap2": "git+https://github.com/jvictorsoto/node-pcap.git#d1ccbf66de5c8f06284a687ef7e7c7dbafd74831"
   },
   "devDependencies": {
